@@ -18,7 +18,7 @@ class ViewController: UIViewController {
     }
     
     
-<<<<<<< HEAD
+
    // Implement your functions here
     
    func averageIsAbove75(_ farg:Double,_ sarg:Double,_ targ:Double) ->Bool{
@@ -82,7 +82,7 @@ func describe(emoji:String) ->String{
             return "Unknown"
     }
 }
-=======
+
     
     
     // Implement your functions here!
@@ -90,5 +90,5 @@ func describe(emoji:String) ->String{
     
     
     
->>>>>>> 5883b7ccd488c8e3ab3082c1103a96adba2471ec
+
 }
