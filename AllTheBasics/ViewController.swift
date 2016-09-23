@@ -11,12 +11,14 @@ import UIKit
 
 
 class ViewController: UIViewController {
-
+    
     override func viewDidLoad() {
         super.viewDidLoad()
+        
     }
     
     
+<<<<<<< HEAD
    // Implement your functions here
     
    func averageIsAbove75(_ farg:Double,_ sarg:Double,_ targ:Double) ->Bool{
@@ -80,4 +82,13 @@ func describe(emoji:String) ->String{
             return "Unknown"
     }
 }
+=======
+    
+    
+    // Implement your functions here!
+    
+    
+    
+    
+>>>>>>> 5883b7ccd488c8e3ab3082c1103a96adba2471ec
 }
